@@ -1,7 +1,6 @@
 import json
 
 students = {}
-# Открываем файл и загружаем данные
 with open('students.json', 'r') as file:
     students = json.load(file)
 
