@@ -1,0 +1,182 @@
+[
+  {
+    "last_name": "Ivanov",
+    "first_name": "Ivan",
+    "middle_name": "Ivanovich",
+    "course": 1,
+    "specialty": "Mathematics",
+    "grades": {
+      "mathematics": 4,
+      "physics": 5,
+      "informatics": 3
+    }
+  },
+  {
+    "last_name": "Petrova",
+    "first_name": "Anna",
+    "middle_name": "Sergeevna",
+    "course": 2,
+    "specialty": "Physics",
+    "grades": {
+      "mathematics": 5,
+      "physics": 4,
+      "informatics": 4
+    }
+  },
+  {
+    "last_name": "Sidorov",
+    "first_name": "Alexey",
+    "middle_name": "Alekseevich",
+    "course": 3,
+    "specialty": "Computer Science",
+    "grades": {
+      "mathematics": 3,
+      "physics": 3,
+      "informatics": 5
+    }
+  },
+  {
+    "last_name": "Kuznetsova",
+    "first_name": "Maria",
+    "middle_name": "Viktorovna",
+    "course": 4,
+    "specialty": "Software Engineering",
+    "grades": {
+      "mathematics": 5,
+      "physics": 5,
+      "informatics": 4
+    }
+  },
+  {
+    "last_name": "Lebedev",
+    "first_name": "Dmitry",
+    "middle_name": "Vladimirovich",
+    "course": 1,
+    "specialty": "Information Security",
+    "grades": {
+      "mathematics": 4,
+      "physics": 3,
+      "informatics": 5
+    }
+  },
+  {
+    "last_name": "Smirnova",
+    "first_name": "Ekaterina",
+    "middle_name": "Alexandrovna",
+    "course": 2,
+    "specialty": "Mathematics",
+    "grades": {
+      "mathematics": 3,
+      "physics": 4,
+      "informatics": 4
+    }
+  },
+  {
+    "last_name": "Vasiliev",
+    "first_name": "Nikolai",
+    "middle_name": "Petrovich",
+    "course": 3,
+    "specialty": "Physics",
+    "grades": {
+      "mathematics": 5,
+      "physics": 5,
+      "informatics": 3
+    }
+  },
+  {
+    "last_name": "Grigorieva",
+    "first_name": "Olga",
+    "middle_name": "Stanislavovna",
+    "course": 4,
+    "specialty": "Computer Science",
+    "grades": {
+      "mathematics": 4,
+      "physics": 4,
+      "informatics": 5
+    }
+  },
+  {
+    "last_name": "Dmitriev",
+    "first_name": "Artem",
+    "middle_name": "Andreevich",
+    "course": 1,
+    "specialty": "Software Engineering",
+    "grades": {
+      "mathematics": 3,
+      "physics": 2,
+      "informatics": 4
+    }
+  },
+  {
+    "last_name": "Nikiforova",
+    "first_name": "Tatyana",
+    "middle_name": "Igorevna",
+    "course": 2,
+    "specialty": "Information Security",
+    "grades": {
+      "mathematics": 5,
+      "physics": 5,
+      "informatics": 5
+    }
+  },
+  {
+    "last_name": "Fedorov",
+    "first_name": "Sergey",
+    "middle_name": "Viktorovich",
+    "course": 3,
+    "specialty": "Mathematics",
+    "grades": {
+      "mathematics": 2,
+      "physics": 3,
+      "informatics": 4
+    }
+  },
+  {
+    "last_name": "Kovalev",
+    "first_name": "Maxim",
+    "middle_name": "Anatolyevich",
+    "course": 1,
+    "specialty": "Software Engineering",
+    "grades": {
+      "mathematics": 4,
+      "physics": 2,
+      "informatics": 3
+    }
+  },
+  {
+    "last_name": "Zaytseva",
+    "first_name": "Elena",
+    "middle_name": "Stanislavovna",
+    "course": 2,
+    "specialty": "Information Security",
+    "grades": {
+      "mathematics": 5,
+      "physics": 4,
+      "informatics": 5
+    }
+  },
+  {
+    "last_name": "Tikhonov",
+    "first_name": "Roman",
+    "middle_name": "Dmitrievich",
+    "course": 3,
+    "specialty": "Computer Science",
+    "grades": {
+      "mathematics": 3,
+      "physics": 3,
+      "informatics": 4
+    }
+  },
+  {
+    "last_name": "Stepanova",
+    "first_name": "Polina",
+    "middle_name": "Olegovna",
+    "course": 4,
+    "specialty": "Physics",
+    "grades": {
+      "mathematics": 5,
+      "physics": 5,
+      "informatics": 5
+    }
+  }
+]
