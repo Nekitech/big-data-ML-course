@@ -7,7 +7,7 @@ y1 = np.sin(x)
 y2 = x
 y3 = x**2
 
-plt.figure(figsize=(10, 6))  # Размер графика
+plt.figure(figsize=(10, 6))
 
 plt.plot(x, y1, label='sin(x)', color='blue', linestyle='-')
 plt.plot(x, y2, label='x', color='green', linestyle='--')
